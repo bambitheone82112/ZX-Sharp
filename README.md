@@ -23,7 +23,7 @@ ZX# run script.zx
 
 # VARIABLES
 
-```zx
+```c#
 using zx#.system
 using zx#.variables
 
